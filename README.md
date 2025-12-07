@@ -18,6 +18,14 @@ A clean, responsive, and interactive Tic-Tac-Toe game built using **HTML, CSS, a
 - **CSS3:** For styling and responsive layout (Flexbox & Grid).
 - **JavaScript (ES6):** For game logic, DOM manipulation, and state management.
 
+### 📁 Project Structure
+    SCT_WD_2/
+    │
+    ├── index.html # Main HTML structure
+    ├── style.css # All styling and animations
+    ├── script.js # Stopwatch logic and interactivity
+    ├── README.md # Project documentation
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
