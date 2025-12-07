@@ -1,0 +1,112 @@
+/* General Reset */
+* {
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif; /* Rounded, cute font */
+}
+
+body {
+    background-color: #f3e5f5; /* Very light purple background */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+}
+
+h1 {
+    color: #6a1b9a;
+    margin-bottom: 10px;
+}
+
+/* Mode Selection Buttons */
+.mode-selection {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.mode-btn {
+    background-color: #e1bee7;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    color: #4a148c;
+    transition: 0.3s;
+}
+
+.mode-btn.active, .mode-btn:hover {
+    background-color: #ba68c8;
+    color: white;
+}
+
+/* Status Text */
+.status {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #880e4f;
+}
+
+/* Game Board */
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.cell {
+    width: 80px;
+    height: 80px;
+    background-color: #f8bbd0; /* Light pink cells */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.3s;
+}
+
+.cell:hover {
+    transform: scale(1.05);
+    background-color: #f48fb1;
+}
+
+/* Player Colors */
+.cell.x { color: #d81b60; } /* Darker pink for X */
+.cell.o { color: #1e88e5; } /* Blue for O */
+
+/* Restart Button */
+#restartBtn {
+    padding: 12px 25px;
+    font-size: 1rem;
+    background-color: #ffb74d; /* Soft Orange */
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+#restartBtn:hover {
+    background-color: #f57c00;
+    transform: translateY(-2px);
+}
