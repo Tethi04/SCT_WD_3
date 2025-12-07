@@ -23,3 +23,24 @@ A clean, responsive, and interactive Tic-Tac-Toe game built using **HTML, CSS, a
    ```bash
    git clone [https://github.com/tethi04/SCT_WD_3.git](https://github.com/tethi04/SCT_WD_3.git)
    
+### 👩‍💻 Author
+**Tethi Biswas**  
+Web Development Intern, SkillCraft Technology  
+- **GitHub**: [@tethi04](https://github.com/tethi04)
+- **Repository**: [SCT_WD_2](https://github.com/tethi04/SCT_WD_2)
+- **Live Demo**: [Stopwatch Application](https://tethi04.github.io/SCT_WD_2/)
+
+### 📄 License
+This project is created as part of the SkillCraft Technology Internship Program. All rights reserved.
+
+---
+
+**Task Details**  
+- **Task**: #02 - Stopwatch Web Application  
+- **Track**: Web Development (WD)  
+- **Offer ID**: SCT/DEC25/0751  
+- **Submission Date**: December 2025  
+
+---
+
+⭐ *If you find this project useful, please give it a star on GitHub!*
