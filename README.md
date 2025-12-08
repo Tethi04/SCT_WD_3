@@ -34,8 +34,8 @@ A clean, responsive, and interactive Tic-Tac-Toe game built using **HTML, CSS, a
 **Tethi Biswas**  
 Web Development Intern, SkillCraft Technology  
 - **GitHub**: [@tethi04](https://github.com/tethi04)
-- **Repository**: [SCT_WD_2](https://github.com/tethi04/SCT_WD_2)
-- **Live Demo**: [Stopwatch Application](https://tethi04.github.io/SCT_WD_2/)
+- **Repository**: [SCT_WD_3](https://github.com/tethi04/SCT_WD_3)
+- **Live Demo**: [Tic-Tac-Toe game ](https://tethi04.github.io/SCT_WD_3/)
 
 ### 📄 License
 This project is created as part of the SkillCraft Technology Internship Program. All rights reserved.
@@ -43,7 +43,7 @@ This project is created as part of the SkillCraft Technology Internship Program.
 ---
 
 **Task Details**  
-- **Task**: #02 - Stopwatch Web Application  
+- **Task**: #02 - Tic-Tac-Toe Web Application
 - **Track**: Web Development (WD)  
 - **Offer ID**: SCT/DEC25/0751  
 - **Submission Date**: December 2025  
