@@ -3,7 +3,6 @@
 A clean, responsive, and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**. This project features a modern, cute aesthetic and includes both **Player vs Player** and **Player vs Computer** modes.
 
 **Live Demo:** [Click Here to Play](https://tethi04.github.io/SCT_WD_3/)  
-*(Note: Replace the link above with your actual GitHub Pages link after deployment)*
 
 ## ✨ Features
 - **Two Game Modes:**
